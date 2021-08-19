@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  align-items: center;
+}
+
+.done{
+  text-decoration: line-through;
+}
+
+.aa{
+  max-width: 70%;
+  margin: auto;
+  margin-top: 7%;
+}
+.btt{
+  margin-top: 3%;
+}
+input{
+  margin-top: 1%;
+}
+
+h1:hover{
+  color: red;
+  text-decoration: underline;
+  letter-spacing: 1px;
+  text-align: center;
+}
